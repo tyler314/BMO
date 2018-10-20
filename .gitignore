@@ -1,2 +1,4 @@
 # ignore personal IDE configs
 .idea/
+# Exclude Mac OS file
+.DS_Store
